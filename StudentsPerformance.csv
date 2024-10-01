@@ -1,0 +1,51 @@
+Data Analysis Questions for Student Performance Dataset
+
+1. Pass/Fail Classification:
+
+
+"How many students passed all subjects (math, reading, and writing), assuming a passing score is 50 or above in each subject?"
+
+2. Subject-wise Pass Count:
+
+
+How many students passed only math? How many passed only reading? How many passed only writing?
+
+3. Gender-wise Performance:
+
+
+How many male and female students passed all subjects? Provide a breakdown by gender.
+
+4. Highest Scoring Student:
+
+
+"Identify the student(s) with the highest total score across math, reading, and writing. What is the total score?"
+
+5. Average Scores by Gender:
+
+
+"What is the average score for math, reading, and writing for male and female students? Which gender performs better on average in each subject?"
+
+6. Performance by Parental Education:
+
+
+"Calculate the number of students who passed all subjects, grouped by their parental level of education. What is the trend?"
+
+7. Top 10% Students:
+
+
+"Identify the top 10% of students based on their total score (math + reading + writing). How many students are in this group, and what is the score cutoff?"
+
+8. Failing Students:
+
+
+"How many students failed at least one subject (scoring below 50 in math, reading, or writing)? Provide a count of these students."
+
+9. Correlation Between Scores:
+
+
+"Is there a strong correlation between math, reading, and writing scores? Which two subjects show the strongest relationship, and how could this insight help in educational strategies?"
+
+10. Grade Distribution:
+
+
+"Classify the students into three categories: ""High Performers"" (total score >= 240), ""Average Performers"" (total score between 150 and 239), and ""Low Performers"" (total score < 150). How many students fall into each category?"
